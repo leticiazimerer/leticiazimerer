@@ -1,3 +1,4 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=leticiazimerer&label=Profile%20views&color=0e75b6&style=flat" alt="leticiazimerer" /> </p>
 ### Oie, fala ai ✌🏼
 
 - 🎓 I'm Dev. Jr 
@@ -5,6 +6,9 @@
 - 💖 Pronouns: She/Ela/Dela
 - 💌 E-mail: leticiazimerer@yahoo.com.br
 - 🤩 I'm relative of Raul Seixas (famous brazilian musician)
+
+
+
 
 <div align="center">
   <a href="https://github.com/leticiazimerer">
