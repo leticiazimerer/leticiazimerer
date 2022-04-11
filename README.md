@@ -38,14 +38,17 @@
   <img align="center" alt="Rafa-chrome" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg">
    <img align="center" alt="Rafa-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/102301805/162762056-2e6818bf-93ba-415f-8294-0eb78e0053ec.gif" width="190" height="190"/>
 
+
+ 
 
        
   </div>
   
   ##
   
- 
+
   <div> 
   <a href="https://www.linkedin.com/in/leticiazimerer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
       <a href="https://instagram.com/leticiazimerer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -54,3 +57,9 @@
 
     
     
+
+  
+  
+
+
+
