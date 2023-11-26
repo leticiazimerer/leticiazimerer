@@ -3,7 +3,7 @@
 ### Oie, fala ai ✌🏼
 
 - 🎓 I'm Dev. Jr 
-- 📌 Geminiana - 22, SP
+- 📌 Geminiana - 24, SP
 - 💖 Pronouns: She/Ela/Dela
 - 💌 E-mail: leticiazimerer@yahoo.com.br
 - 🤩 I'm relative of Raul Seixas (famous brazilian musician)
