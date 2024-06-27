@@ -2,8 +2,8 @@
 
 ### Oie, fala ai ✌🏼
 
-- 🎓 I'm Dev. Jr 
-- 📌 Geminiana - 24, SP
+- 🎓 I'm Software Developer Intern at Itaú Unibanco
+- 📌 Geminiana - 25, SP
 - 💖 Pronouns: She/Ela/Dela
 - 💌 E-mail: leticiazimerer@yahoo.com.br
 - 🤩 I'm relative of Raul Seixas (famous brazilian musician)
